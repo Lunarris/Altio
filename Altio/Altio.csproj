@@ -4,9 +4,8 @@
     <Version>0.1.0.0</Version>
     <Author>Lunarris</Author>
     <Name>Altio</Name>
-    <Punchline>Cutscene-style dialogue and a light editor for GPose.</Punchline>
-    <Description>Altio adds game-styled dialogue boxes and speech bubbles you can place on screen, plays dialogue scripts line by line like a cutscene, and edits the lights you make in Brio or the GPose menu, including gobo textures.
-Dialogue overlays and gobos are adapted from Ktisis (GPL-3.0).</Description>
+    <Punchline>Dialogue and a light editor for GPose compatible with Brio.</Punchline>
+    <Description>Altio adds game-styled dialogue boxes and speech bubbles you can place on screen and edits the lights you make in Brio or the GPose menu.</Description>
     <RepoUrl>https://github.com/Lunarris/Altio</RepoUrl>
     <Tags>gpose;brio;dialogue;lighting;cutscene</Tags>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
